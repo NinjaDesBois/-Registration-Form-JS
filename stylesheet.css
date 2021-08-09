@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color: #f9fafb;
+}
+
+h2 {
+    font-weight: bolder;
+    text-align: center;
+}
+
+.principal {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+button {
+    background-color: #3498db;
+    border: #3498db;
+    color: white;
+}
